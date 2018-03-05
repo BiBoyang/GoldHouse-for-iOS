@@ -85,7 +85,6 @@
 * [Facebook iOS App如何优化启动时间](http://www.baijingapp.com/article/3286)
 * [点击 Run 之后发生了什么？](http://www.jianshu.com/p/d5cf01424e92) - (来源：Joy)
 * [把玩链接器](https://github.com/joy0304/Joy-Blog/blob/master/Contents/%EF%BC%88%E5%AD%99%E6%BA%90%EF%BC%89%E6%8A%8A%E7%8E%A9%E9%93%BE%E6%8E%A5%E5%99%A8.pdf)－（来源：sunnyxx）
-* WWDC 2016 Session 406
 * [由App的启动说起](http://oncenote.com/2015/06/01/How-App-Launch/)－（来源： jaminzzhang）
 * [今日头条iOS客户端启动速度优化](https://techblog.toutiao.com/2017/01/17/iosspeed/) - (来源：今日头条)
 * [干货 | 途牛iOS客户端启动速度优化实践](https://mp.weixin.qq.com/s?__biz=MzAwOTE0ODEwMQ==&mid=2650686830&idx=1&sn=d2f060ceb57c235c79d6709f628fcb67&chksm=836ee6c4b4196fd222ecd37cee720e321f25db8ea61b3ce0e3b03e1f7ecd600cf4332ee850bb&mpshare=1&scene=24&srcid=0428m0Yvb48i7iluIzUu35pP&key=80dec19febfab7e013b31928af2e3ceec2bb5146db6a534f611c55c79becc04a11138f465567e55d3b60efdcee93f969e52bbee54b1e5eee491c4013f3130218cc96e44d01dfdfb2c31a6796c0f24951&ascene=0&uin=MTY3NzkzNjI0NA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.3+build(16D32)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=op%2FZ0lEAYmtlPRYF1sCK%2BvfhJaCS7%2BHMTZHZqGKIrTvJLI%2Boq2UvUzKikRhKS2%2Br)
