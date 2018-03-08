@@ -186,6 +186,8 @@
 
 * [招聘一个靠谱的 iOS](https://github.com/ChenYilong/iOSInterviewQuestions)
 * [iOS 中级面试题](http://mrpeak.cn/ios/2016/01/07/push)
+* [2018 iOS 社招面试经验：我是如何拿到阿里、滴滴、美团等六家 offer 的？](https://xiaozhuanlan.com/topic/4985160237)
+
 
 ## 书籍
 * 《深入理解计算机系统（第三版）》
