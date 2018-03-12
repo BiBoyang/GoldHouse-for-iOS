@@ -213,7 +213,7 @@
 * [infoQ 历届大会演讲视频集锦](http://www.infoq.com/cn/presentations)
 * [runtime疯人院](http://v.youku.com/v_show/id_XODIzMzI3NjAw.html)
 * [RunLoop](http://v.youku.com/v_show/id_XODgxODkzODI0.html)
-
+* [Swift 语言 iOS 11 开发 斯坦福公开课](https://www.bilibili.com/video/av16339375/)
 
 
 
