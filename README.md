@@ -181,6 +181,10 @@
 ## 路由&组件化
 * [带你一步步构建iOS路由](https://www.jianshu.com/p/3a902f274a3d)
 
+## 热更新
+* [滴滴 iOS 动态化方案 DynamicCocoa 的诞生与起航](http://www.cocoachina.com/ios/20161220/18400.html)
+* [JSPatch](https://github.com/bang590/JSPatch/blob/master/README-CN.md)
+* [如何使用libffi库实现OC方法替换和调用 OC 函数](https://www.jianshu.com/p/a1eb31799b9b)
 
 ## 面试题
 
