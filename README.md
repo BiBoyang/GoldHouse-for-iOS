@@ -132,6 +132,8 @@
 * [面向切面编程之 Aspects 源码解析及应用](http://wereadteam.github.io/2016/06/30/Aspects/?utm_source=tuicool&utm_medium=referral) -（来源：微信读书）
 * [iOS 如何实现Aspect Oriented Programming (上)](http://www.jianshu.com/p/dc9dca24d5de) - （来源：halfrost ）
 * [iOS 如何实现Aspect Oriented Programming (下)](http://www.jianshu.com/p/2ad7e90b521b)- （来源：halfrost ）
+* [使用 libffi 实现 AOP](http://www.itboth.com/d/zQbQne/aop)
+
 
 ## cocoaPods
 
