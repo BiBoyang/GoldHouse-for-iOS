@@ -133,7 +133,7 @@
 * [iOS 如何实现Aspect Oriented Programming (上)](http://www.jianshu.com/p/dc9dca24d5de) - （来源：halfrost ）
 * [iOS 如何实现Aspect Oriented Programming (下)](http://www.jianshu.com/p/2ad7e90b521b)- （来源：halfrost ）
 * [使用 libffi 实现 AOP](http://www.itboth.com/d/zQbQne/aop)
-
+* [Aspect-Oriented Objective-C Library](https://stackoverflow.com/questions/1508396/aspect-oriented-objective-c-library)
 
 ## cocoaPods
 
