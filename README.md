@@ -17,6 +17,10 @@
 
 ## 多线程
 * [iOS中的多线程技术](http://xuyafei.cn/post/draft/ios-thread)
+
+## 本地持久化
+* [iOS文件内存映射详解(mmap)](http://www.cocoachina.com/ios/20180403/22894.html)
+
 ## App卡顿检测
 
 * [iOS应用UI线程卡顿监控](http://mrpeak.cn/blog/ui-detect/) －（来源：MrPeak杂货铺）
