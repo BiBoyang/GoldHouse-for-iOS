@@ -129,6 +129,7 @@
 * [SDK无埋点技术在百分点的探索和实践](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112803&idx=1&sn=061e10ff89c15f893511688f9c7864c2#rd) - (来源：移动开发前线)
 * [有货iOS数据非侵入式自动采集探索实践](https://mp.weixin.qq.com/s/CkCs-pVq7ax6Kp6vRnFdlQ)
 * [美团点评前端无痕埋点实践](http://tech.meituan.com/mt-mobile-analytics-practice.html) - (来源：美团)
+* [ 网易HubbleData无埋点SDK在iOS端的设计与实现](https://neyoufan.github.io/2017/04/19/ios/%E7%BD%91%E6%98%93HubbleData%E6%97%A0%E5%9F%8B%E7%82%B9SDK%E5%9C%A8iOS%E7%AB%AF%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0/)
 * [iOS无埋点数据SDK实践之路](http://www.jianshu.com/p/69ce01e15042) - (from：netease)
 * [iOS无埋点SDK 之 RN页面的数据收集](http://www.jianshu.com/p/0e1f2d357e39)
 * [Android无埋点数据收集SDK关键技术](http://www.jianshu.com/p/b5ffe845fe2d)
