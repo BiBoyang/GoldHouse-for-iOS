@@ -14,9 +14,11 @@
 * [Block技巧与底层解析](https://www.jianshu.com/p/51d04b7639f1)
 ## 内存管理
 * [iOS内存管理和malloc源码解读](https://yq.aliyun.com/articles/3065)
+* [iOS 底层解析weak的实现原理（包含weak对象的初始化，引用，释放的分析）](https://www.jianshu.com/p/13c4fb1cedea)
 
 ## 多线程
 * [iOS中的多线程技术](http://xuyafei.cn/post/draft/ios-thread)
+* [iOS中保证线程安全的几种方式与性能对比](https://www.jianshu.com/p/938d68ed832c#)
 
 ## 本地持久化
 * [iOS文件内存映射详解(mmap)](http://www.cocoachina.com/ios/20180403/22894.html)
