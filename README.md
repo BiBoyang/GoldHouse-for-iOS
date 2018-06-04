@@ -2,6 +2,7 @@
 
 * [Method Swizzling的各种姿势](http://www.tanhao.me/code/160723.html/)
 * [Objective-C Method Swizzling 的最佳实践](http://blog.leichunfeng.com/blog/2015/06/14/objective-c-method-swizzling-best-practice/)
+* [iOS界的毒瘤-Method Swizzling](https://www.valiantcat.cn/index.php/2017/11/03/53.html)
 
 ## runLoop
 * [深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)
