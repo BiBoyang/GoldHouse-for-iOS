@@ -1,5 +1,7 @@
 ## runtime
 
+* [深入理解Objective-C：方法缓存](https://tech.meituan.com/DiveIntoMethodCache.html)
+* [深入理解Objective-C：Category](https://tech.meituan.com/DiveIntoCategory.html)
 * [Method Swizzling的各种姿势](http://www.tanhao.me/code/160723.html/)
 * [Objective-C Method Swizzling 的最佳实践](http://blog.leichunfeng.com/blog/2015/06/14/objective-c-method-swizzling-best-practice/)
 * [iOS界的毒瘤-Method Swizzling](https://www.valiantcat.cn/index.php/2017/11/03/53.html)
@@ -163,6 +165,12 @@
 *  [基于 CocoaPods 进行 iOS 开发](https://blog.dianqk.org/2017/05/01/dev-on-pod/)
 
 ## ReactiveCocoa
+* [RACSignal的Subscription深入分析](https://tech.meituan.com/RACSignalSubscription.html)
+* [细说ReactiveCocoa的冷信号与热信号（一）](https://tech.meituan.com/talk-about-reactivecocoas-cold-signal-and-hot-signal-part-1.html)
+* [细说ReactiveCocoa的冷信号与热信号（二）](https://tech.meituan.com/talk-about-reactivecocoas-cold-signal-and-hot-signal-part-2.html)
+* [细说ReactiveCocoa的冷信号与热信号（三）](https://tech.meituan.com/talk-about-reactivecocoas-cold-signal-and-hot-signal-part-3.html)
+* [ReactiveCocoa中潜在的内存泄漏及解决方案](https://tech.meituan.com/potential-memory-leak-in-reactivecocoa.html)
+* [ReactiveCocoa核心元素与信号流](https://tech.meituan.com/ReactiveCocoaSignalFlow.html)
 
 ## JS交互
 
@@ -222,6 +230,8 @@
 
 ## 视频
 * [iOS逆向与安全](http://mooc.study.163.com/course/2001233000?tid=2001319000#/info) - (刘培庆 Alone_Monkey)
+* [iOS内存管理详解(美团)](https://v.douyu.com/show/ra2JEMJgnEkWNxml)
+* [App 启动流程详解及其优化(美团)](https://v.douyu.com/show/JwLjGvLJ0N2MmO90)
 * [infoQ 历届大会演讲视频集锦](http://www.infoq.com/cn/presentations)
 * [runtime疯人院](http://v.youku.com/v_show/id_XODIzMzI3NjAw.html)
 * [RunLoop](http://v.youku.com/v_show/id_XODgxODkzODI0.html)
