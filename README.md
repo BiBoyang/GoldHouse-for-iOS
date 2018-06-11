@@ -13,6 +13,8 @@
 
 ## block
 * [Block技巧与底层解析](https://www.jianshu.com/p/51d04b7639f1)
+* [漫谈Block](https://mp.weixin.qq.com/s/NRdyuLoZ2yYJTiolYXeRfA)
+
 ## 内存管理
 * [iOS内存管理和malloc源码解读](https://yq.aliyun.com/articles/3065)
 * [iOS 底层解析weak的实现原理（包含weak对象的初始化，引用，释放的分析）](https://www.jianshu.com/p/13c4fb1cedea)
@@ -20,6 +22,7 @@
 ## 多线程
 * [iOS中的多线程技术](http://xuyafei.cn/post/draft/ios-thread)
 * [iOS中保证线程安全的几种方式与性能对比](https://www.jianshu.com/p/938d68ed832c#)
+* [白夜追凶，揭开iOS锁的秘密](https://mp.weixin.qq.com/s/e2VA7-E01OopF-ObPE3YOQ)
 
 ## 本地持久化
 * [iOS文件内存映射详解(mmap)](http://www.cocoachina.com/ios/20180403/22894.html)
@@ -135,7 +138,6 @@
 * [ 网易HubbleData无埋点SDK在iOS端的设计与实现](https://neyoufan.github.io/2017/04/19/ios/%E7%BD%91%E6%98%93HubbleData%E6%97%A0%E5%9F%8B%E7%82%B9SDK%E5%9C%A8iOS%E7%AB%AF%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0/)
 * [iOS无埋点数据SDK实践之路](http://www.jianshu.com/p/69ce01e15042) - (from：netease)
 * [iOS无埋点SDK 之 RN页面的数据收集](http://www.jianshu.com/p/0e1f2d357e39)
-* [Android无埋点数据收集SDK关键技术](http://www.jianshu.com/p/b5ffe845fe2d)
 * [网易HubbleData无埋点SDK在iOS端的设计与实现](https://mp.weixin.qq.com/s?__biz=MzIyNjY1Mjg1MA==&mid=2247483740&idx=1&sn=e4797093fa3a61a905aa24ffab64a22d&chksm=e86c6681df1bef97c68d8e340680c9d676de363dc44669619a0e589ea8cc5029b38b5629bc78&mpshare=1&scene=24&srcid=0424aOBeuoj2pbmJid8Y98la&key=8c3e7ded42e4df897f336993d16779d366a40869163c3784e0d0f0c4a74bdd1bb76ffd4a0fc7d1335f7e7d6a8c23d9e1731d4948f0e7f8adca24ac1460f86629ba44dea704d25b084e5375f8dd3e001a&ascene=0&uin=MTY3NzkzNjI0NA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.3+build(16D32)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=r5CsnaUuHmsvqzjfj%2FrgCgbIQSgHWM0DKFdckEzQY27bsb8XL7NvdpmMnnXqrmR6)
 * [网易乐得无埋点之路](https://github.com/joy0304/Joy-Blog/blob/master/Contents/%E7%BD%91%E6%98%93%E4%B9%90%E5%BE%97%E6%97%A0%E5%9F%8B%E7%82%B9%E4%B9%8B%E8%B7%AF.pdf)
 * [面向切面编程之 Aspects 源码解析及应用](http://wereadteam.github.io/2016/06/30/Aspects/?utm_source=tuicool&utm_medium=referral) -（来源：微信读书）
@@ -143,6 +145,7 @@
 * [iOS 如何实现Aspect Oriented Programming (下)](http://www.jianshu.com/p/2ad7e90b521b)- （来源：halfrost ）
 * [使用 libffi 实现 AOP](http://www.itboth.com/d/zQbQne/aop)
 * [Aspect-Oriented Objective-C Library](https://stackoverflow.com/questions/1508396/aspect-oriented-objective-c-library)
+* [iOS自动化埋点探索](https://mp.weixin.qq.com/s/u-HmmrSAgtER1N2pKxCm0A)
 
 ## cocoaPods
 
