@@ -1,12 +1,23 @@
+
+
 # iOS基础
+[runtime](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#runtime)-[runloop](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#runloop)-[category](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#category)-[block](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#block)-[内存管理](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)-[多线程](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E5%A4%9A%E7%BA%BF%E7%A8%8B)-[本地持久化](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E6%9C%AC%E5%9C%B0%E6%8C%81%E4%B9%85%E5%8C%96)-[nonatomic&atomic](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#nonatomicatomic)
+
 
 # APM相关
+[App卡顿检测](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#app%E5%8D%A1%E9%A1%BF%E6%A3%80%E6%B5%8B)-[App性能检测](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#app%E6%80%A7%E8%83%BD%E6%A3%80%E6%B5%8B)-[App性能优化](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#app%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)-[App图像优化](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#app%E5%9B%BE%E5%83%8F%E4%BC%98%E5%8C%96)-[App网络优化](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#app%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96)-[电能优化](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E7%94%B5%E8%83%BD%E4%BC%98%E5%8C%96)-[App的启动优化](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#app%E7%9A%84%E5%90%AF%E5%8A%A8%E4%BC%98%E5%8C%96)-[App体积优化](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E4%BD%93%E7%A7%AF%E4%BC%98%E5%8C%96)-[crash收集分析](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#crash%E6%94%B6%E9%9B%86%E5%88%86%E6%9E%90)
 
-# JS交互相关
+# 数据收集相关
+[获取方法执行时间](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E8%8E%B7%E5%8F%96%E6%96%B9%E6%B3%95%E6%89%A7%E8%A1%8C%E6%97%B6%E9%97%B4)-[无痕埋点&AOP](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E6%97%A0%E7%97%95%E5%9F%8B%E7%82%B9aop)-[日志系统](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E6%97%A5%E5%BF%97%E7%B3%BB%E7%BB%9F)
 
+# 工程效率相关
+[cocoaPods](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#cocoapods)-[ReactiveCocoa](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#reactivecocoa)-[JS交互](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#js%E4%BA%A4%E4%BA%92)-[工程&路由&组件化](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E5%B7%A5%E7%A8%8B%E8%B7%AF%E7%94%B1%E7%BB%84%E4%BB%B6%E5%8C%96)
+# 其他
+[面试题](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E9%9D%A2%E8%AF%95%E9%A2%98)-[不好归类的](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E4%B8%8D%E5%A5%BD%E5%BD%92%E7%B1%BB%E7%9A%84)
 # 图书集合
-
+[书籍](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E4%B9%A6%E7%B1%8D)
 # 视频集合
+[视频](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E8%A7%86%E9%A2%91)
 
 ## runtime
 * [深入理解Objective-C：方法缓存](https://tech.meituan.com/DiveIntoMethodCache.html)-（来源：美团技术团队）
@@ -48,6 +59,13 @@
 
 ## 本地持久化
 * [iOS文件内存映射详解(mmap)](https://www.jianshu.com/p/ef849eb922f0)-（来源：FlyOceanFish）
+## nonatomic&atomic
+
+* [从一道网易面试题浅谈OC线程安全](http://www.jianshu.com/p/cec2a41aa0e7)
+* [atomic性能真的很差吗？](http://www.jianshu.com/p/15df680d510e)-
+* [atomic 和 nonatomic 有什么区别？](http://www.jianshu.com/p/7288eacbb1a2)
+* [谈nonatomic非线程安全问题](http://www.jianshu.com/p/b075bfd67899)-
+
 
 ## App卡顿检测
 
@@ -189,6 +207,17 @@
 * [Aspect-Oriented Objective-C Library](https://stackoverflow.com/questions/1508396/aspect-oriented-objective-c-library)-（来源：stackoverflow）
 * [iOS自动化埋点探索](https://mp.weixin.qq.com/s/u-HmmrSAgtER1N2pKxCm0A)-（来源：京东零售技术）
 
+## 日志系统
+* [微信高性能线上日志系统xlog剖析](http://satanwoo.github.io/2017/07/30/xlog/)-（来源：微信）
+* [【Dev Club 分享】微信mars 的高性能日志模块 xlog](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg%3D%3D&mid=2653578220&idx=3&sn=5691bdd82ae0715ab12fd6b849f74aee&chksm=84b3b1ebb3c438fddf86bf74e232fa14222932ebd6d6439bed04ad17d5e64e9270d4ab460f64&scene=4)-（来源：微信）
+* [微信跨平台组件mars-xlog架构分析及迁移思路](https://blog.desmondyao.com/mars-xlog/)-（来源：微信）
+* [从Mars的Xlog组件学习日志系统](http://www.jianshu.com/p/f53b4575d3ae)
+* [微信终端跨平台组件Mars介绍](https://futucocoa.github.io/2017-01-20-TencentWechatMarsIntroduction/)-（来源：富途）
+* [Mars -- Wiki ](https://github.com/Tencent/mars/wiki)
+* [微信跨平台组件mars-xlog架构分析及迁移思路](https://zhuanlan.zhihu.com/p/25011775)-（来源：微信）
+* [NSLog效率低下的原因及尝试lldb断点打印Log](http://blog.sunnyxx.com/2014/04/22/objc_dig_nslog/)-（来源：sunnyxx）
+* [Logan：美团点评移动端基础日志库揭秘](https://mp.weixin.qq.com/s/ojUZjT4YhUWZ3jh37UtJmg)-（来源：美团）
+
 ## cocoaPods
 
 * [细聊 Cocoapods 与 Xcode 工程配置](http://www.jianshu.com/p/ad2e37e741bb) -（来源：bestSwifter）
@@ -220,24 +249,7 @@
 * [深入浅出 JavaScriptCore](http://www.jianshu.com/p/ac534f508fb0)-（来源：_James_）
 * [iOS 中的 web 开发 JavaScriptCore](http://www.jianshu.com/p/66f98ace2a70)-（来源：Kwai）
 
-## nonatomic&atomic
 
-* [从一道网易面试题浅谈OC线程安全](http://www.jianshu.com/p/cec2a41aa0e7)
-* [atomic性能真的很差吗？](http://www.jianshu.com/p/15df680d510e)-
-* [atomic 和 nonatomic 有什么区别？](http://www.jianshu.com/p/7288eacbb1a2)
-* [谈nonatomic非线程安全问题](http://www.jianshu.com/p/b075bfd67899)-
-
-## 日志系统
-
-* [微信高性能线上日志系统xlog剖析](http://satanwoo.github.io/2017/07/30/xlog/)-（来源：微信）
-* [【Dev Club 分享】微信mars 的高性能日志模块 xlog](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg%3D%3D&mid=2653578220&idx=3&sn=5691bdd82ae0715ab12fd6b849f74aee&chksm=84b3b1ebb3c438fddf86bf74e232fa14222932ebd6d6439bed04ad17d5e64e9270d4ab460f64&scene=4)-（来源：微信）
-* [微信跨平台组件mars-xlog架构分析及迁移思路](https://blog.desmondyao.com/mars-xlog/)-（来源：微信）
-* [从Mars的Xlog组件学习日志系统](http://www.jianshu.com/p/f53b4575d3ae)
-* [微信终端跨平台组件Mars介绍](https://futucocoa.github.io/2017-01-20-TencentWechatMarsIntroduction/)-（来源：富途）
-* [Mars -- Wiki ](https://github.com/Tencent/mars/wiki)
-* [微信跨平台组件mars-xlog架构分析及迁移思路](https://zhuanlan.zhihu.com/p/25011775)-（来源：微信）
-* [NSLog效率低下的原因及尝试lldb断点打印Log](http://blog.sunnyxx.com/2014/04/22/objc_dig_nslog/)-（来源：sunnyxx）
-* [Logan：美团点评移动端基础日志库揭秘](https://mp.weixin.qq.com/s/ojUZjT4YhUWZ3jh37UtJmg)-（来源：美团）
 
 ## 工程&路由&组件化
 * [带你一步步构建iOS路由](https://www.jianshu.com/p/3a902f274a3d)-（来源：Neo_joke）
