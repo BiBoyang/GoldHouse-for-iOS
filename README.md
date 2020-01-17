@@ -143,6 +143,7 @@
 * [WWDC2016-406-Optimizing App Startup Time](https://developer.apple.com/videos/play/wwdc2016/406)
 * [WWDC2017-413-App Startup Time:Past,Present,and Future](https://developer.apple.com/videos/play/wwdc2017/413)
 * [APP启动时间优化](https://mp.weixin.qq.com/s/aLbuARUIzJ7r7meiuGTWaQ) -（来源：京东）
+* [今日头条iOS客户端启动速度优化](https://www.jianshu.com/p/7096478ccbe7)
 * [iOS App从点击到启动](http://www.jianshu.com/p/231b1cebf477)－（来源：简书·吴白）
 * [优化 App 的启动时间](http://yulingtianxia.com/blog/2016/10/30/Optimizing-App-Startup-Time/)－（来源：玉令天下的博客）
 * [iOS 程序 main 函数之前发生了什么](http://blog.sunnyxx.com/2014/08/30/objc-pre-main/)－（来源：sunnyxx）
