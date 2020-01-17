@@ -58,7 +58,7 @@
 * [白夜追凶，揭开iOS锁的秘密](https://mp.weixin.qq.com/s/e2VA7-E01OopF-ObPE3YOQ) -（来源：京东零售技术）
 
 ## 本地持久化
-* [iOS文件内存映射详解(mmap)](https://www.jianshu.com/p/ef849eb922f0)-（来源：FlyOceanFish）
+* [iOS文件内存映射详解(mmap)](https://www.jianshu.com/p/ef849eb922f0)
 
 ## nonatomic&atomic
 
