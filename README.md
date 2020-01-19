@@ -54,7 +54,7 @@
 
 ## 多线程
 
-* [iOS中保证线程安全的几种方式与性能对比](https://www.jianshu.com/p/938d68ed832c#)-（来源：景铭巴巴）
+* [iOS中保证线程安全的几种方式与性能对比](https://www.jianshu.com/p/938d68ed832c#)
 * [白夜追凶，揭开iOS锁的秘密](https://mp.weixin.qq.com/s/e2VA7-E01OopF-ObPE3YOQ) -（来源：京东零售技术）
 
 ## 本地持久化
