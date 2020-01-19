@@ -77,7 +77,7 @@
 * [iOS 性能优化总结](https://juejin.im/post/5ace078cf265da23994ee493)
 * [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
 * [微信iOS卡顿监控系统](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207890859&idx=1&sn=e98dd604cdb854e7a5808d2072c29162&scene=4#wechat_redirect) － (来源：微信移动)
-* [iOS 实时卡顿监控](https://github.com/suifengqjn/PerformanceMonitor) － (来源：fengshi)
+* [iOS 实时卡顿监控](https://github.com/suifengqjn/PerformanceMonitor) 
 
 ## App性能检测
 
