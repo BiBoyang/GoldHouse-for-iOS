@@ -112,6 +112,7 @@
 * [Avoiding Image Decompression Sickness](https://www.cocoanetics.com/2011/10/avoiding-image-decompression-sickness/)-（来源：cocoanetics）
 * [图片之旅](https://blog.mrriddler.com/%E5%9B%BE%E7%89%87%E4%B9%8B%E6%97%85/)-（来源：mrriddler）
 * [移动端图片格式调研](https://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)-（来源：ibireme）
+* [Rendering performance of iOS apps]()
 
 
 ## App网络优化
