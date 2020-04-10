@@ -9,7 +9,7 @@
 [获取方法执行时间](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E8%8E%B7%E5%8F%96%E6%96%B9%E6%B3%95%E6%89%A7%E8%A1%8C%E6%97%B6%E9%97%B4)-[无痕埋点&AOP](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E6%97%A0%E7%97%95%E5%9F%8B%E7%82%B9aop)-[日志系统](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E6%97%A5%E5%BF%97%E7%B3%BB%E7%BB%9F)
 
 # 工程效率相关
-[cocoaPods](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#cocoapods)-[ReactiveCocoa](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#reactivecocoa)-[JS交互](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#js%E4%BA%A4%E4%BA%92)-[工程&路由&组件化](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E5%B7%A5%E7%A8%8B%E8%B7%AF%E7%94%B1%E7%BB%84%E4%BB%B6%E5%8C%96)
+[cocoaPods](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#cocoapods)-[JS交互](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#js%E4%BA%A4%E4%BA%92)-[工程&路由&组件化](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E5%B7%A5%E7%A8%8B%E8%B7%AF%E7%94%B1%E7%BB%84%E4%BB%B6%E5%8C%96)
 # 其他
 [面试题](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E9%9D%A2%E8%AF%95%E9%A2%98)-[不好归类的](https://github.com/BiBoyang/GoldHouse-for-iOS/blob/master/README.md#%E4%B8%8D%E5%A5%BD%E5%BD%92%E7%B1%BB%E7%9A%84)
 # 图书集合
@@ -240,14 +240,7 @@
 * [优雅的开发Swift和Objective C混编的Framework](http://blog.csdn.net/hello_hwc/article/details/58320433) - (来源：LeoMobileDeveloper)
 * [基于 CocoaPods 进行 iOS 开发](https://blog.dianqk.org/2017/05/01/dev-on-pod/)-（来源：dianqk）
 
-## ReactiveCocoa
 
-* [RACSignal的Subscription深入分析](https://tech.meituan.com/2015/06/30/rac-signal-subscription.html)-（来源：美团）
-* [细说ReactiveCocoa的冷信号与热信号（一）](https://tech.meituan.com/talk-about-reactivecocoas-cold-signal-and-hot-signal-part-1.html)-（来源：美团）
-* [细说ReactiveCocoa的冷信号与热信号（二）](https://tech.meituan.com/talk-about-reactivecocoas-cold-signal-and-hot-signal-part-2.html)-（来源：美团）
-* [细说ReactiveCocoa的冷信号与热信号（三）](https://tech.meituan.com/talk-about-reactivecocoas-cold-signal-and-hot-signal-part-3.html)-（来源：美团）
-* [ReactiveCocoa中潜在的内存泄漏及解决方案](https://tech.meituan.com/potential-memory-leak-in-reactivecocoa.html)-（来源：美团）
-* [ReactiveCocoa核心元素与信号流](https://tech.meituan.com/ReactiveCocoaSignalFlow.html)-（来源：美团）
 
 ## JS交互
 
