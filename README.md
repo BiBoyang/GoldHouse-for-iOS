@@ -89,6 +89,7 @@
 * [微信读书 iOS 质量保证及性能监控](http://wereadteam.github.io/2016/12/12/Monitor/)
 * [移动端 APM 产品研发技能](http://www.infoq.com/cn/presentations/mobile-terminal-apm-product-development-skills?utm_source=presentations_about_apm1&utm_medium=link&utm_campaign=apm1) -（来源：听云）
 * [NeteaseAPM iOS SDK技术实现分享](http://chuansong.me/n/322629451836)- (来源：网易)
+* [360移动端性能监控实践](https://segmentfault.com/a/1190000019645150)
 * [告别“伪连接”！如何高效检测iOS中的真实连接状态](http://chuansong.me/n/2577466) - (来源：移动开发前线)
 * [饿了么移动技术负责人胡彪：浅谈App优化](http://blog.tingyun.com/web/article/detail/1122) - (来源：饿了么)
 * [阿里百川码力APP监控来了 重量级选手进入APM市场](http://www.imooc.com/article/14205?block_id=tuijian_wz) - (来源：阿里百川)
